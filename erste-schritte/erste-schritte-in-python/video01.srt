@@ -1,0 +1,45 @@
+1
+00:00:02,099 --> 00:00:04,833
+<b><font color='#e8e8e8'>Die ersten Schritte in Python.</font></b>
+
+2
+00:00:05,500 --> 00:00:07,433
+<b><font color='#e8e8e8'>Wir verwenden jetzt diese Website:</font></b>
+
+3
+00:00:10,599 --> 00:00:14,233
+<b><font color='#e8e8e8'>Da sieht man drei Fenster.</font></b>
+
+4
+00:00:15,000 --> 00:00:18,800
+<b><font color='#e8e8e8'>Im rechten Fenster programmieren wir Codes.</font></b>
+
+5
+00:00:19,400 --> 00:00:24,000
+<b><font color='#e8e8e8'>Das obere linke ist das Zeichenblatt, aber das ist für später.</font></b>
+
+6
+00:00:24,666 --> 00:00:27,000
+<b><font color='#e8e8e8'>Unten links ist der Output. </font></b>
+
+7
+00:00:27,966 --> 00:00:30,000
+<b><font color='#e8e8e8'>Jetzt schreiben wir beim linken Fenster.</font></b>
+
+8
+00:00:30,166 --> 00:00:35,366
+<b><font color='#e8e8e8'>Wir schreiben: print(“Hallo Welt”);</font></b>
+<b><font color='#e8e8e8'>in den Editor.</font></b>
+
+9
+00:00:36,300 --> 00:00:37,966
+<b><font color='#e8e8e8'>Dann klicken wir auf den Start Knopf und führen das Programm aus.</font></b>
+
+10
+00:00:37,966 --> 00:00:42,333
+<b><font color='#e8e8e8'>Rechts unten sehen wir den Text “Hallo Welt”.</font></b>
+
+11
+00:00:42,900 --> 00:00:46,900
+<b><font color='#e8e8e8'>Unser erstes Beispiel ist fertig. Super gemacht!</font></b>
+

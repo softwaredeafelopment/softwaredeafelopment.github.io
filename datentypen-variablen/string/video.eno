@@ -1,0 +1,14 @@
+title: String
+sort_number: 3
+
+poster:
+file = poster.jpg
+
+subtitles:
+file = video01.srt
+label = Deutsch
+language = de
+
+-- description
+Was genau String bedeutet und was wichtig ist zu beachten ist im Video. Ein Beispiel ist: "Hallo Welt"
+-- description

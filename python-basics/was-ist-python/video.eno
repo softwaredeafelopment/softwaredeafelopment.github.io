@@ -1,0 +1,14 @@
+title: Was ist Python?
+sort_number: 1
+
+poster:
+file = poster.jpg
+
+subtitles:
+file = video01.srt
+label = Deutsch
+language = de
+
+-- description
+Wer Python entwickelt hat und warum der Name "Python"? Das erfährst du im Video.
+-- description

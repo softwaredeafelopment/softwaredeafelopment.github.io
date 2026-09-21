@@ -1,0 +1,15 @@
+title: Erste Schritte in Python
+sort_number: 2
+
+poster:
+file = poster.jpg
+
+subtitles:
+file = video01.srt
+label = Deutsch
+language = de
+
+-- description
+Unser erstes Python-Programm: Im Editor probieren wir gemeinsam einen Code aus.
+Website: https://webtigerpython.ethz.ch/
+-- description

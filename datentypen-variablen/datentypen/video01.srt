@@ -1,0 +1,21 @@
+1
+00:00:00,766 --> 00:00:06,633
+<b><font color='#e8e8e8'>Python kennt vier verschiedene Datentypen.</font></b>
+
+
+2
+00:00:07,133 --> 00:00:09,633
+<b><font color='#e8e8e8'>Das Erste sind Zahlen zum Rechnen.</font></b>
+
+3
+00:00:10,366 --> 00:00:12,633
+<b><font color='#e8e8e8'>Das Zweite sind Strings für Texte.</font></b>
+
+4
+00:00:13,099 --> 00:00:18,066
+<b><font color='#e8e8e8'>Das Dritte ist Boolean für wahr oder falsch.</font></b>
+
+5
+00:00:18,066 --> 00:00:21,366
+<b><font color='#e8e8e8'>Das Vierte sind Variablen zum Speichern.</font></b>
+

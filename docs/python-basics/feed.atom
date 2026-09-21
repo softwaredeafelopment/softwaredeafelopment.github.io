@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <author>
+        <name>Python Basics</name>
+    </author>
+    <generator uri="https://simonrepp.com/hyper8" version="0.23.0">
+        Hyper 8 Video System 0.23.0 ()
+    </generator>
+    <id>https://softwaredeafelopment.github.io/</id>
+    <link href="https://softwaredeafelopment.github.io/python-basics/feed.atom" rel="self"/>
+    
+    <title>Python Basics</title>
+    <updated>2026-09-21T11:15:38.846737+00:00</updated>
+    <entry>
+    <id>https://softwaredeafelopment.github.io/python-basics/beispiel-katzentur/</id>
+    <link href="https://softwaredeafelopment.github.io/python-basics/beispiel-katzentur/" rel="alternate"/>
+    <title>Beispiel Katzentür</title>
+    <summary type="html">&lt;p&gt;Durch das Alltagsbeispiel "Katzentür" wird erklärt wie Python mit Bausteinen aufgebaut ist.&lt;/p&gt;</summary>
+    <updated>2026-09-21T11:15:38.846737+00:00</updated>
+</entry>
+
+<entry>
+    <id>https://softwaredeafelopment.github.io/python-basics/vorteile-von-python/</id>
+    <link href="https://softwaredeafelopment.github.io/python-basics/vorteile-von-python/" rel="alternate"/>
+    <title>Vorteile von Python</title>
+    <summary type="html">&lt;p&gt;Python ist leicht zu lernen, gratis und Open Source. Was Open Source ist und mehr gibt es im Video.&lt;/p&gt;</summary>
+    <updated>2026-09-21T11:15:38.846737+00:00</updated>
+</entry>
+
+<entry>
+    <id>https://softwaredeafelopment.github.io/python-basics/was-ist-python/</id>
+    <link href="https://softwaredeafelopment.github.io/python-basics/was-ist-python/" rel="alternate"/>
+    <title>Was ist Python?</title>
+    <summary type="html">&lt;p&gt;Wer Python entwickelt hat und warum der Name "Python"? Das erfährst du im Video.&lt;/p&gt;</summary>
+    <updated>2026-09-21T11:15:38.846737+00:00</updated>
+</entry>
+
+<entry>
+    <id>https://softwaredeafelopment.github.io/python-basics/nachteile-von-python/</id>
+    <link href="https://softwaredeafelopment.github.io/python-basics/nachteile-von-python/" rel="alternate"/>
+    <title>Nachteile von Python</title>
+    <summary type="html">&lt;p&gt;Python hat auch Schwächen, die hier genauer erklärt werden.&lt;/p&gt;</summary>
+    <updated>2026-09-21T11:15:38.846737+00:00</updated>
+</entry>
+
+</feed>

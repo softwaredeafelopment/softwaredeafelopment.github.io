@@ -1,0 +1,15 @@
+title: Variablen
+sort_number: 5
+
+poster:
+file = poster.jpg
+
+subtitles:
+file = video01.srt
+label = Deutsch
+language = de
+
+-- description
+Eine Variable ist wie eine Box mit Namen, wo Zahlen und Texte gespeichert werden.
+Beispiel: name = "Anna"
+-- description

@@ -1,0 +1,14 @@
+title: Was sind Schleifen?
+sort_number: 1
+
+poster:
+file = poster.jpg
+
+subtitles:
+file = video01.srt
+label = Deutsch
+language = de
+
+-- description
+Schleifen sind Wiederholungen und können gut eingesetzt werden um zu viele Codes zu vermeiden.
+-- description

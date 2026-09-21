@@ -1,0 +1,25 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:03.500
+<b><font color='#e8e8e8'>Thema Input.</font></b>
+
+2
+00:00:03.900 --> 00:00:11.166
+<b><font color='#e8e8e8'>Dieser Befehl wartet auf die programmierende Person, bis etwas eingegeben wird.</font></b>
+
+3
+00:00:12.900 --> 00:00:16.599
+<b><font color='#e8e8e8'>Sobald etwas eingegeben ist, arbeitet es weiter.</font></b>
+
+4
+00:00:17.633 --> 00:00:25.866
+<b><font color='#e8e8e8'>Es kann ein Text oder eine Zahl eingegeben werden.</font></b>
+
+5
+00:00:26.766 --> 00:00:29.766
+<b><font color='#e8e8e8'>Das kann man sich später wieder ausgeben lassen.</font></b>
+
+6
+00:00:29.933 --> 00:00:35.766
+<b><font color='#e8e8e8'> So können Variablen gespeichert werden. Und ich kann diese selber benennen.</font></b>

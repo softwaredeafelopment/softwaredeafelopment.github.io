@@ -1,0 +1,25 @@
+WEBVTT
+
+1
+00:00:00.966 --> 00:00:06.266
+<b><font color='#e8e8e8'>Datentyp Boolean.</font></b>
+
+2
+00:00:06.400 --> 00:00:08.433
+<b><font color='#e8e8e8'>Gebärdet wird es so.</font></b>
+
+3
+00:00:09.333 --> 00:00:13.833
+<b><font color='#e8e8e8'>Das kennt nur wahr oder falsch.</font></b>
+
+4
+00:00:14.166 --> 00:00:17.566
+<b><font color='#e8e8e8'>Und hat deshalb nur zwei Werte: WAHR/FALSCH.</font></b>
+
+5
+00:00:17.633 --> 00:00:22.266
+<b><font color='#e8e8e8'>Für was ist es gut? Das Programm weiß dann, es hat sich ein Wert geändert.</font></b>
+
+6
+00:00:22.633 --> 00:00:30.500
+<b><font color='#e8e8e8'> Zum Beispiel bei einer If Funktion oder Schleife. Wenn sich da ein Wert ändert wird es erkannt.</font></b>

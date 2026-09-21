@@ -1,0 +1,15 @@
+title: Erste Bausteine
+sort_number: 1
+
+poster:
+file = poster.jpg
+
+subtitles:
+file = video01.srt
+label = Deutsch
+language = de
+
+-- description
+Bevor wir Python lernen, üben wir logisches Denken mit Bausteinen. Auf der Website werden Bausteine aneinandergereiht und gestapelt. Einfach ausprobieren!
+Website: https://blockflow.openpatch.org/editor.html
+-- description

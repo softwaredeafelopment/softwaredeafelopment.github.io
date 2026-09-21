@@ -1,0 +1,32 @@
+1
+00:00:02,733 --> 00:00:05,533
+<b><font color='#e8e8e8'>Python hat auch Nachteile.</font></b>
+
+2
+00:00:06,133 --> 00:00:11,400
+<b><font color='#e8e8e8'>Python kann nichts vertiefend, wie komplizierte Codes ausführen.</font></b>
+
+3
+00:00:11,400 --> 00:00:17,833
+<b><font color='#e8e8e8'>Und die mit Add-ons weiterentwickelt werden, wo der Code sehr detailliert ist.</font></b>
+
+4
+00:00:17,833 --> 00:00:20,833
+<b><font color='#e8e8e8'>Python wird dann sehr langsam.</font></b>
+
+5
+00:00:20,900 --> 00:00:29,000
+<b><font color='#e8e8e8'>Kennt ihr zum Beispiel die interaktiven Apps mit vielen verschiedenen Buttons und Anwendungen?</font></b>
+
+6
+00:00:29,099 --> 00:00:33,666
+<b><font color='#e8e8e8'>Da sind oft verschiedene Programmiersprachen involviert.</font></b>
+
+7
+00:00:33,699 --> 00:00:38,900
+<b><font color='#e8e8e8'>Jede Programmiersprache hat Stärken und Schwächen.</font></b>
+
+8
+00:00:39,333 --> 00:00:42,033
+<b><font color='#e8e8e8'>Deshalb wird oft kombiniert.</font></b>
+

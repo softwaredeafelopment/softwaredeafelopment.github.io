@@ -1,0 +1,24 @@
+1
+00:00:01,533 --> 00:00:04,166
+<b><font color='#e8e8e8'>Thema Variablen.</font></b>
+
+2
+00:00:04,400 --> 00:00:12,333
+<b><font color='#e8e8e8'>Was sind Variablen? Eine Variable ist wie eine Box, die einen Namen bekommt.</font></b>
+
+3
+00:00:13,333 --> 00:00:16,533
+<b><font color='#e8e8e8'>In dieser Box werden dann Informationen gelagert.</font></b>
+
+4
+00:00:17,166 --> 00:00:25,500
+<b><font color='#e8e8e8'>Es können in der Box zum Beispiel Zahlen oder Texte gespeichert und benannt werden.</font></b>
+
+5
+00:00:26,266 --> 00:00:31,566
+<b><font color='#e8e8e8'>Diese können wir dann wiederverwenden oder den Inhalt ändern.</font></b>
+
+6
+00:00:32,033 --> 00:00:34,333
+<b><font color='#e8e8e8'>Und diese dann nochmal anzeigen lassen.</font></b>
+

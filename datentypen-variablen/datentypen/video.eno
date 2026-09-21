@@ -1,0 +1,14 @@
+title: Datentypen
+sort_number: 1
+
+poster:
+file = poster.jpg
+
+subtitles:
+file = video01.srt
+label = Deutsch
+language = de
+
+-- description
+Überblick: Zahlen zum Rechnen, Strings für Texte, Boolean für wahr oder falsch und Variablen zum Speichern. Die nächsten Videos erklären jeden Typ einzeln.
+-- description

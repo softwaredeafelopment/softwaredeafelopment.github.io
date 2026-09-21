@@ -1,0 +1,15 @@
+title: Was ist Programmieren?
+sort_number: 1
+
+poster:
+file = poster.jpg
+
+subtitles:
+file = video01.srt
+label = Deutsch
+language = de
+
+-- description
+Programmieren bedeutet, dem Computer eine genaue Schritt-für-Schritt-Anleitung zu geben. Der Computer kann kein „ungefähr“ – wir denken für ihn mit. Das Video zeigt, warum es viele Programmiersprachen gibt und was sie alle gemeinsam haben.
+Beispiel: print("Hallo Welt")
+-- description

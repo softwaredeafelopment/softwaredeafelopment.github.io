@@ -1,0 +1,41 @@
+1
+00:00:00,000 --> 00:00:05,333
+<b><font color='#e8e8e8'>Was für Vorteile hat Python?</font></b>
+
+2
+00:00:05,333 --> 00:00:10,199
+<b><font color='#e8e8e8'>Ich habe schon erklärt: Es ist einfach zu verstehen und zu lernen. </font></b>
+
+3
+00:00:10,233 --> 00:00:15,466
+<b><font color='#e8e8e8'>Der Fokus ist, mit Grundlagen Probleme zu lösen.</font></b>
+
+4
+00:00:15,800 --> 00:00:18,733
+<b><font color='#e8e8e8'>Python ist gratis und Open Source.</font></b>
+<b><font color='#e8e8e8'> </font></b>
+
+5
+00:00:19,033 --> 00:00:21,733
+<b><font color='#e8e8e8'>Das bedeutet, dass die Quelle offen ersichtlich ist.</font></b>
+
+6
+00:00:22,099 --> 00:00:25,266
+<b><font color='#e8e8e8'>Und es ist Community-basiert.</font></b>
+
+7
+00:00:26,066 --> 00:00:30,366
+<b><font color='#e8e8e8'>Ohne Open Source ist der Code nicht ersichtlich</font></b>
+
+8
+00:00:30,400 --> 00:00:33,033
+<b><font color='#e8e8e8'>und es ist lizenziert und somit im Privatbesitz.</font></b>
+
+9
+00:00:34,166 --> 00:00:37,800
+<b><font color='#e8e8e8'>Python kann sehr gut Daten analysieren und auswerten. </font></b>
+
+10
+00:00:37,866 --> 00:00:43,866
+<b><font color='#e8e8e8'>Und es geht auf verschiedenen Systemen wie Windows, Apple und Linux.</font></b>
+

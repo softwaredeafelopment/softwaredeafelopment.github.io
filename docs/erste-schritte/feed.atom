@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <author>
+        <name>Erste Schritte</name>
+    </author>
+    <generator uri="https://simonrepp.com/hyper8" version="0.23.0">
+        Hyper 8 Video System 0.23.0 ()
+    </generator>
+    <id>https://softwaredeafelopment.github.io/</id>
+    <link href="https://softwaredeafelopment.github.io/erste-schritte/feed.atom" rel="self"/>
+    
+    <title>Erste Schritte</title>
+    <updated>2026-09-21T11:15:38.843101+00:00</updated>
+    <entry>
+    <id>https://softwaredeafelopment.github.io/erste-schritte/erste-schritte-in-python/</id>
+    <link href="https://softwaredeafelopment.github.io/erste-schritte/erste-schritte-in-python/" rel="alternate"/>
+    <title>Erste Schritte in Python</title>
+    <summary type="html">&lt;p&gt;Unser erstes Python-Programm: Im Editor probieren wir gemeinsam einen Code aus.
+Website: &lt;a href="https://webtigerpython.ethz.ch/" target="_blank"&gt;https://webtigerpython.ethz.ch/&lt;/a&gt;&lt;/p&gt;</summary>
+    <updated>2026-09-21T11:15:38.843101+00:00</updated>
+</entry>
+
+<entry>
+    <id>https://softwaredeafelopment.github.io/erste-schritte/erste-bausteine/</id>
+    <link href="https://softwaredeafelopment.github.io/erste-schritte/erste-bausteine/" rel="alternate"/>
+    <title>Erste Bausteine</title>
+    <summary type="html">&lt;p&gt;Bevor wir Python lernen, üben wir logisches Denken mit Bausteinen. Auf der Website werden Bausteine aneinandergereiht und gestapelt. Einfach ausprobieren!
+Website: &lt;a href="https://blockflow.openpatch.org/editor.html" target="_blank"&gt;https://blockflow.openpatch.org/editor.html&lt;/a&gt;&lt;/p&gt;</summary>
+    <updated>2026-09-21T11:15:38.843101+00:00</updated>
+</entry>
+
+</feed>

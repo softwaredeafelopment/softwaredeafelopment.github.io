@@ -1,0 +1,77 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:05.599
+<b><font color='#e8e8e8'>Jetzt sind Codes noch harmlos, weil es nur ein paar Zeilen sind.</font></b>
+
+2
+00:00:06.099 --> 00:00:15.233
+<b><font color='#e8e8e8'>Aber es werden immer mehr Zeilen und deshalb brauchen wir dahinter eine Struktur, wie Abstände. </font></b>
+
+3
+00:00:16.066 --> 00:00:20.266
+<b><font color='#e8e8e8'>Es werden deshalb gerne Kommentare (#) verwendet. </font></b>
+
+4
+00:00:20.900 --> 00:00:25.500
+<b><font color='#e8e8e8'>Python ignoriert Kommentare und sie sind unsichtbar.</font></b>
+
+5
+00:00:25.866 --> 00:00:29.966
+<b><font color='#e8e8e8'>Wir aber, können die Kommentare lesen und sehen, was da steht.</font></b>
+
+6
+00:00:30.433 --> 00:00:36.000
+<b><font color='#e8e8e8'>Wir können im Code selber Sachen beschreiben, Tipps geben oder Erklärungen.</font></b>
+
+7
+00:00:36.333 --> 00:00:38.000
+<b><font color='#e8e8e8'>Aber warum ist der Inhalt wichtig?</font></b>
+
+8
+00:00:38.266 --> 00:00:44.766
+<b><font color='#e8e8e8'>Bei langjährigen Projekten oder alte Projekte die neu bearbeitet werden</font></b>
+
+9
+00:00:44.833 --> 00:00:50.699
+<b><font color='#e8e8e8'>kann es passieren, dass einige Codes unklar sind oder der genaue Inhalt vergessen wird.  </font></b>
+
+10
+00:00:51.300 --> 00:00:55.000
+<b><font color='#e8e8e8'>Deshalb verwendet man Kommentare. Damit der Inhalt erhalten bleibt.</font></b>
+
+11
+00:00:55.900 --> 00:01:02.333
+<b><font color='#e8e8e8'>Oder eine andere Person  möchte beim Projekt mitmachen und hat von Inhalt und Struktur keine Ahnung.</font></b>
+
+12
+00:01:02.466 --> 00:01:07.233
+<b><font color='#e8e8e8'>Da können die Kommentare für einen besseren Ablauf helfen.</font></b>
+
+13
+00:01:08.166 --> 00:01:14.900
+<b><font color='#e8e8e8'>Kommentare werden auch zur Struktur verwendet, wie Themenabschnitte.</font></b>
+
+14
+00:01:14.933 --> 00:01:19.466
+<b><font color='#e8e8e8'>Oder wenn es unsicher ist, ob ein Code klappt oder herausgelöscht werden soll.</font></b>
+
+15
+00:01:19.500 --> 00:01:21.833
+<b><font color='#e8e8e8'>Da wird ein Kommentar ergänzt und unsichtbar gemacht.</font></b>
+
+16
+00:01:21.866 --> 00:01:27.433
+<b><font color='#e8e8e8'>Ein anderer Code wird ausprobiert und wenn dieser passt, bleibt der drinnen. </font></b>
+
+17
+00:01:27.500 --> 00:01:31.400
+<b><font color='#e8e8e8'>Der alte Code kann zur Sicherheit drinnen bleiben, falls es in Zukunft gebraucht wird. </font></b>
+
+18
+00:01:31.900 --> 00:01:38.000
+<b><font color='#e8e8e8'>Deshalb sind Kommentare wichtig. Auch wichtig ist eine Struktur.</font></b>
+
+19
+00:01:38.066 --> 00:01:42.966
+<b><font color='#e8e8e8'>Wenn schon eine Struktur da ist, dann bleibt es auch einfach und übersichtlich.</font></b>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <author>
+        <name>Schleifen</name>
+    </author>
+    <generator uri="https://simonrepp.com/hyper8" version="0.23.0">
+        Hyper 8 Video System 0.23.0 ()
+    </generator>
+    <id>https://softwaredeafelopment.github.io/</id>
+    <link href="https://softwaredeafelopment.github.io/schleifen/feed.atom" rel="self"/>
+    
+    <title>Schleifen</title>
+    <updated>2026-09-21T11:15:38.852259+00:00</updated>
+    <entry>
+    <id>https://softwaredeafelopment.github.io/schleifen/was-sind-schleifen/</id>
+    <link href="https://softwaredeafelopment.github.io/schleifen/was-sind-schleifen/" rel="alternate"/>
+    <title>Was sind Schleifen?</title>
+    <summary type="html">&lt;p&gt;Schleifen sind Wiederholungen und können gut eingesetzt werden um zu viele Codes zu vermeiden.&lt;/p&gt;</summary>
+    <updated>2026-09-21T11:15:38.852259+00:00</updated>
+</entry>
+
+</feed>

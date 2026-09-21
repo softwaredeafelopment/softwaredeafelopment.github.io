@@ -1,0 +1,14 @@
+title: Nachteile von Python
+sort_number: 3
+
+poster:
+file = poster.jpg
+
+subtitles:
+file = video01.srt
+label = Deutsch
+language = de
+
+-- description
+Python hat auch Schwächen, die hier genauer erklärt werden.
+-- description

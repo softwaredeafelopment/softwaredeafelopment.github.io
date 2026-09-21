@@ -1,0 +1,14 @@
+title: Boolean
+sort_number: 4
+
+poster:
+file = poster.jpg
+
+subtitles:
+file = video01.srt
+label = Deutsch
+language = de
+
+-- description
+Boolean kennt nur zwei Werte: wahr (True) oder falsch (False). Zum Beispiel wird es in einer If-Bedingung oder Schleife angewendet.
+-- description

@@ -1,0 +1,14 @@
+title: Beispiel Katzentür
+sort_number: 4
+
+poster:
+file = poster.jpg
+
+subtitles:
+file = video01.srt
+label = Deutsch
+language = de
+
+-- description
+Durch das Alltagsbeispiel "Katzentür" wird erklärt wie Python mit Bausteinen aufgebaut ist.
+-- description

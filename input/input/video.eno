@@ -1,0 +1,14 @@
+title: Input
+sort_number: 1
+
+poster:
+file = poster.jpg
+
+subtitles:
+file = video01.srt
+label = Deutsch
+language = de
+
+-- description
+Der Befehl input() wartet, bis etwas eingegeben wird – ein Text oder eine Zahl. Beispiel: name = input("Wie heißt du? ")
+-- description

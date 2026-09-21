@@ -1,0 +1,32 @@
+1
+00:00:01,000 --> 00:00:03,533
+<b><font color='#e8e8e8'>Was sind Schleifen?</font></b>
+
+2
+00:00:03,666 --> 00:00:05,966
+<b><font color='#e8e8e8'>Schleifen sind Wiederholungen.</font></b>
+
+3
+00:00:06,066 --> 00:00:11,633
+<b><font color='#e8e8e8'>Wenn ich zum Beispiel immer wieder denselben Code habe, muss ich diesen nicht immer neu schreiben.</font></b>
+
+4
+00:00:11,733 --> 00:00:14,000
+<b><font color='#e8e8e8'>Die Schleife fasst es in einem Zusammen.</font></b>
+
+5
+00:00:14,166 --> 00:00:17,333
+<b><font color='#e8e8e8'>Oft sind Schleifen an Bedingungen gebunden.</font></b>
+
+6
+00:00:17,433 --> 00:00:20,466
+<b><font color='#e8e8e8'>Wenn diese Bedingung da ist, hört die Schleife auf.</font></b>
+
+7
+00:00:20,533 --> 00:00:30,366
+<b><font color='#e8e8e8'>Es gibt auch Endlosschleifen, die oft unabsichtlich passieren, wenn im Code etwas falsch geschrieben wird.</font></b>
+
+8
+00:00:30,933 --> 00:00:32,599
+<b><font color='#e8e8e8'>Diese können aber beendet werden. </font></b>
+

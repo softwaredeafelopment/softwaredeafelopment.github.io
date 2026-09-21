@@ -1,0 +1,50 @@
+embedding: enabled
+title: Software Deafelopment
+container_order: sort_number_asc
+video_order: sort_number_asc
+
+-- description
+Willkommen bei Software Deafelopment!
+
+Programmieren ist heute ein wichtiger Teil unserer digitalen Welt. Viele Menschen möchten Programmieren lernen, aber passende Lernangebote sind nicht für alle zugänglich.
+
+„Deafelopment“ möchte das ändern. Das Projekt entwickelte Lerninhalte zum Thema Programmieren in Österreichischer Gebärdensprache (ÖGS). Damit wird versucht, dass gehörlose und schwerhörige Personen einen leichteren Zugang zu grundlegenden Programmierkenntnissen bekommen.
+
+Programmieren soll verständlich und zugänglich vermittelt werden. Die Lerninhalte sollen zeigen, dass Programmieren nicht nur etwas für Expert*innen ist. Sie sollen Interesse wecken, zum Ausprobieren motivieren und dabei helfen, erste eigene Erfahrungen mit Programmieren zu sammeln.
+
+Ein wichtiger Teil des Projekts ist die Zusammenarbeit mit netidee. Durch die Förderung und Unterstützung von netidee konnten wir Deafelopment umsetzen und die Entwicklung von digitalen Lernangeboten in ÖGS voranbringen.
+
+Deafelopment soll ein Angebot von und für Menschen sein, die sich für Programmieren interessieren. Wir möchten zeigen, dass Programmieren für alle zugänglich gemacht werden kann.
+
+⠀
+
+Ein Einführungskurs mit kurzen Videos (30 Sek. - 2 Min.) zu den Grundlagen des Programmierens in Python.
+
+Der Kurs ist in sieben Kapitel gegliedert, die aufeinander aufbauen:
+
+1. Grundlagen / Einführung – Was ist Programmieren, was ist ein Programmiercode?
+
+2. Python Basics – Was ist Python, Vor- und Nachteile, ein Alltagsbeispiel
+
+3. Erste Schritte – Die Bausteine eines Programms und die ersten Zeilen Python
+
+4. Kommentare – Code verständlich beschreiben
+
+5. Datentypen & Variablen – Zahlen, Strings, Boolean und Variablen
+
+6. Input – Eingaben von Nutzerinnen und Nutzern verarbeiten
+
+7. Schleifen – Wiederholungen im Code
+
+Am besten der Reihe nach anschauen. Alle Videos haben Untertitel.
+
+⠀
+
+Über das Projekt
+
+Software Deafelopment wurde 2025–2026 von Gebärdenverse gemeinsam mit der Fachhochschule St. Pölten (USTP) umgesetzt und von netidee, der Förderinitiative der Internet Stiftung, gefördert. Konzept, Drehbücher und Videos in ÖGS: das Team von Gebärdenverse. Projektleitung: Lukas Daniel Klausner (USTP).
+
+Projektseite bei netidee: https://www.netidee.at/introduction-software-deafelopment
+
+Lizenz: Alle Videos, Untertitel und Texte dieser Seite stehen unter der Lizenz CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.de). Sie dürfen geteilt und weiterverwendet werden, wenn Software Deafelopment als Quelle genannt wird.
+-- description

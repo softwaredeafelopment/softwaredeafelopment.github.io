@@ -1,0 +1,40 @@
+1
+00:00:01,197 --> 00:00:06,302
+<b><font color='#e8e8e8'>Das Thema ist ein Alltagsbeispiel: Die Katzentür</font></b>
+
+2
+00:00:06,302 --> 00:00:15,428
+<b><font color='#e8e8e8'>Ich will, dass ein Lampe drei Sekunden leuchtet, wenn die Katze hinausgeht.</font></b>
+
+3
+00:00:16,346 --> 00:00:20,033
+<b><font color='#e8e8e8'>Wenn die Katze wieder hineingeht, soll das Licht auch drei Sekunden leuchten. </font></b>
+
+4
+00:00:21,134 --> 00:00:24,587
+<b><font color='#e8e8e8'>Wir brauchen dafür drei Bausteine. </font></b>
+
+5
+00:00:25,655 --> 00:00:31,361
+<b><font color='#e8e8e8'>Erstens: Die Katzentür, die bewegt wird. Das ist der erste Stein.</font></b>
+
+6
+00:00:32,045 --> 00:00:36,683
+<b><font color='#e8e8e8'>Zweitens: Die Lampe, die drei Sekunden leuchtet.</font></b>
+
+7
+00:00:37,684 --> 00:00:42,255
+<b><font color='#e8e8e8'>Drittens: Eine Schleife, die alles wiederholt.</font></b>
+
+8
+00:00:43,990 --> 00:00:48,378
+<b><font color='#e8e8e8'>Jetzt kombinieren wir diese Bausteine und es wiederholt sich durchgehend.</font></b>
+
+9
+00:00:49,295 --> 00:00:55,134
+<b><font color='#e8e8e8'>Das bedeutet, das Licht leuchtet jetzt drei Sekunden, wenn die Katze die Tür bewegt.</font></b>
+
+10
+00:00:55,835 --> 00:01:03,476
+<b><font color='#e8e8e8'>Das ist ein ganz einfaches Beispiel und einfach erklärt. </font></b>
+

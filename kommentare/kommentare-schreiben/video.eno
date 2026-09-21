@@ -1,0 +1,14 @@
+title: Kommentare schreiben
+sort_number: 1
+
+poster:
+file = poster.jpg
+
+subtitles:
+file = video01.srt
+label = Deutsch
+language = de
+
+-- description
+Kommentare können wichtig sein und Missverständnisse vermeiden. Warum, wird im Video genauer erklärt.
+-- description

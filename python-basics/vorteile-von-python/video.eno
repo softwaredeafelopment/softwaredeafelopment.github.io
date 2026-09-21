@@ -1,0 +1,14 @@
+title: Vorteile von Python
+sort_number: 2
+
+poster:
+file = poster.jpg
+
+subtitles:
+file = video01.srt
+label = Deutsch
+language = de
+
+-- description
+Python ist leicht zu lernen, gratis und Open Source. Was Open Source ist und mehr gibt es im Video.
+-- description

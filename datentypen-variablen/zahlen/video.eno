@@ -1,0 +1,14 @@
+title: Zahlen
+sort_number: 2
+
+poster:
+file = poster.jpg
+
+subtitles:
+file = video01.srt
+label = Deutsch
+language = de
+
+-- description
+Python kennt drei Zahlentypen. Diese werden genauer erklärt.
+-- description

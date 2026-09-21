@@ -1,0 +1,37 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.666
+<b><font color='#e8e8e8'>Datentypen Zahlen.</font></b>
+
+2
+00:00:03.666 --> 00:00:08.666
+<b><font color='#e8e8e8'>Python unterscheidet in 3 verschiedene Zahlentypen.</font></b>
+
+3
+00:00:08.666 --> 00:00:14.266
+<b><font color='#e8e8e8'>Das Erste ist "int". Das ist für Ganzzahlen.</font></b>
+
+4
+00:00:14.266 --> 00:00:21.966
+<b><font color='#e8e8e8'>Zum Beispiel 1,2 oder 3. Oder -3, -2, -1 oder -5.</font></b>
+
+5
+00:00:21.966 --> 00:00:29.166
+<b><font color='#e8e8e8'>Das Zweitere ist "float" für Fließkommazahlen.</font></b>
+
+6
+00:00:29.333 --> 00:00:34.766
+<b><font color='#e8e8e8'>Zum Beispiel: 3.14 oder 70.18</font></b>
+
+7
+00:00:34.766 --> 00:00:40.300
+<b><font color='#e8e8e8'>Ganz wichtig! Hier keinen Komma verwenden, sondern einen Punkt.</font></b>
+
+8
+00:00:42.333 --> 00:00:49.633
+<b><font color='#e8e8e8'>Das Dritte ist "complex". Hier sind komplizierte komplexe Zahlen möglich.</font></b>
+
+9
+00:00:49.633 --> 00:00:54.333
+<b><font color='#e8e8e8'>Zum Beispiel: 35+2j</font></b>

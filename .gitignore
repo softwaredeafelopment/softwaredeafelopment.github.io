@@ -1,0 +1,5 @@
+.hyper8_cache/
+.hyper8_build/
+.DS_Store
+*.bak
+_to_delete/
