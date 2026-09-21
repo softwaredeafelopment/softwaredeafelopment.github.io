@@ -10,14 +10,14 @@
     <link href="https://softwaredeafelopment.github.io/grundlagen-einfuhrung/feed.atom" rel="self"/>
     
     <title>Grundlagen / Einführung</title>
-    <updated>2026-09-21T11:15:38.834250+00:00</updated>
+    <updated>2026-09-21T12:52:50.100031+00:00</updated>
     <entry>
     <id>https://softwaredeafelopment.github.io/grundlagen-einfuhrung/was-ist-programmieren/</id>
     <link href="https://softwaredeafelopment.github.io/grundlagen-einfuhrung/was-ist-programmieren/" rel="alternate"/>
     <title>Was ist Programmieren?</title>
     <summary type="html">&lt;p&gt;Programmieren bedeutet, dem Computer eine genaue Schritt-für-Schritt-Anleitung zu geben. Der Computer kann kein „ungefähr“ – wir denken für ihn mit. Das Video zeigt, warum es viele Programmiersprachen gibt und was sie alle gemeinsam haben.
 Beispiel: print("Hallo Welt")&lt;/p&gt;</summary>
-    <updated>2026-09-21T11:15:38.834250+00:00</updated>
+    <updated>2026-09-21T12:52:50.100031+00:00</updated>
 </entry>
 
 <entry>
@@ -25,7 +25,7 @@ Beispiel: print("Hallo Welt")&lt;/p&gt;</summary>
     <link href="https://softwaredeafelopment.github.io/grundlagen-einfuhrung/was-ist-ein-programmiercode/" rel="alternate"/>
     <title>Was ist ein Programmiercode?</title>
     <summary type="html">&lt;p&gt;Was ist ein Programmiercode und welche Programmiersprache verwenden wir?&lt;/p&gt;</summary>
-    <updated>2026-09-21T11:15:38.834250+00:00</updated>
+    <updated>2026-09-21T12:52:50.100031+00:00</updated>
 </entry>
 
 </feed>

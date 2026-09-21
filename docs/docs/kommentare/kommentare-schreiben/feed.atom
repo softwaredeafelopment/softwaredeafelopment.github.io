@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <author>
+        <name>kommentare-schreiben</name>
+    </author>
+    <generator uri="https://simonrepp.com/hyper8" version="0.23.0">
+        Hyper 8 Video System 0.23.0 ()
+    </generator>
+    <id>https://softwaredeafelopment.github.io/</id>
+    <link href="https://softwaredeafelopment.github.io/docs/kommentare/kommentare-schreiben/feed.atom" rel="self"/>
+    
+    <title>kommentare-schreiben</title>
+    <updated>2026-09-21T12:52:50.115772+00:00</updated>
+    
+</feed>
