@@ -10,13 +10,13 @@
     <link href="https://softwaredeafelopment.github.io/input/feed.atom" rel="self"/>
     
     <title>Input</title>
-    <updated>2026-09-21T12:52:50.105401+00:00</updated>
+    <updated>2026-09-21T13:05:36.662743+00:00</updated>
     <entry>
     <id>https://softwaredeafelopment.github.io/input/input/</id>
     <link href="https://softwaredeafelopment.github.io/input/input/" rel="alternate"/>
     <title>Input</title>
     <summary type="html">&lt;p&gt;Der Befehl input() wartet, bis etwas eingegeben wird – ein Text oder eine Zahl. Beispiel: name = input("Wie heißt du? ")&lt;/p&gt;</summary>
-    <updated>2026-09-21T12:52:50.105401+00:00</updated>
+    <updated>2026-09-21T13:05:36.662743+00:00</updated>
 </entry>
 
 </feed>
