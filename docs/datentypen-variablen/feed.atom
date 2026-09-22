@@ -10,13 +10,13 @@
     <link href="https://softwaredeafelopment.ustp.at/datentypen-variablen/feed.atom" rel="self"/>
     
     <title>Datentypen &amp; Variablen</title>
-    <updated>2026-09-22T09:13:17.312744+00:00</updated>
+    <updated>2026-09-22T09:44:03.041798+00:00</updated>
     <entry>
     <id>https://softwaredeafelopment.ustp.at/datentypen-variablen/datentypen/</id>
     <link href="https://softwaredeafelopment.ustp.at/datentypen-variablen/datentypen/" rel="alternate"/>
     <title>Datentypen</title>
     <summary type="html">&lt;p&gt;Überblick: Zahlen zum Rechnen, Strings für Texte, Boolean für wahr oder falsch und Variablen zum Speichern. Die nächsten Videos erklären jeden Typ einzeln.&lt;/p&gt;</summary>
-    <updated>2026-09-22T09:13:17.312744+00:00</updated>
+    <updated>2026-09-22T09:44:03.041798+00:00</updated>
 </entry>
 
 <entry>
@@ -24,7 +24,7 @@
     <link href="https://softwaredeafelopment.ustp.at/datentypen-variablen/zahlen/" rel="alternate"/>
     <title>Zahlen</title>
     <summary type="html">&lt;p&gt;Python kennt drei Zahlentypen. Diese werden genauer erklärt.&lt;/p&gt;</summary>
-    <updated>2026-09-22T09:13:17.312744+00:00</updated>
+    <updated>2026-09-22T09:44:03.041798+00:00</updated>
 </entry>
 
 <entry>
@@ -32,7 +32,7 @@
     <link href="https://softwaredeafelopment.ustp.at/datentypen-variablen/boolean/" rel="alternate"/>
     <title>Boolean</title>
     <summary type="html">&lt;p&gt;Boolean kennt nur zwei Werte: wahr (True) oder falsch (False). Zum Beispiel wird es in einer If-Bedingung oder Schleife angewendet.&lt;/p&gt;</summary>
-    <updated>2026-09-22T09:13:17.312744+00:00</updated>
+    <updated>2026-09-22T09:44:03.041798+00:00</updated>
 </entry>
 
 <entry>
@@ -41,7 +41,7 @@
     <title>Variablen</title>
     <summary type="html">&lt;p&gt;Eine Variable ist wie eine Box mit Namen, wo Zahlen und Texte gespeichert werden.
 Beispiel: name = "Anna"&lt;/p&gt;</summary>
-    <updated>2026-09-22T09:13:17.312744+00:00</updated>
+    <updated>2026-09-22T09:44:03.041798+00:00</updated>
 </entry>
 
 <entry>
@@ -49,7 +49,7 @@ Beispiel: name = "Anna"&lt;/p&gt;</summary>
     <link href="https://softwaredeafelopment.ustp.at/datentypen-variablen/string/" rel="alternate"/>
     <title>String</title>
     <summary type="html">&lt;p&gt;Was genau String bedeutet und was wichtig ist zu beachten ist im Video. Ein Beispiel ist: "Hallo Welt"&lt;/p&gt;</summary>
-    <updated>2026-09-22T09:13:17.312744+00:00</updated>
+    <updated>2026-09-22T09:44:03.041798+00:00</updated>
 </entry>
 
 </feed>

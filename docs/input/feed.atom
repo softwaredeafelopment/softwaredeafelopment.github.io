@@ -10,13 +10,13 @@
     <link href="https://softwaredeafelopment.ustp.at/input/feed.atom" rel="self"/>
     
     <title>Input</title>
-    <updated>2026-09-22T09:13:17.326765+00:00</updated>
+    <updated>2026-09-22T09:44:03.058598+00:00</updated>
     <entry>
     <id>https://softwaredeafelopment.ustp.at/input/input/</id>
     <link href="https://softwaredeafelopment.ustp.at/input/input/" rel="alternate"/>
     <title>Input</title>
     <summary type="html">&lt;p&gt;Der Befehl input() wartet, bis etwas eingegeben wird – ein Text oder eine Zahl. Beispiel: name = input("Wie heißt du? ")&lt;/p&gt;</summary>
-    <updated>2026-09-22T09:13:17.326765+00:00</updated>
+    <updated>2026-09-22T09:44:03.058598+00:00</updated>
 </entry>
 
 </feed>
