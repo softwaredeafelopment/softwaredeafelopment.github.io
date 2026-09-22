@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
-        <atom:link href="https://softwaredeafelopment.github.io/schleifen/media.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://softwaredeafelopment.ustp.at/schleifen/media.rss" rel="self" type="application/rss+xml"/>
         <description>Hyper 8 Video System 0.23</description>
         <generator>Hyper 8 Video System 0.23.0 ()</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 21 Sep 2026 13:05:36 +0000</lastBuildDate>
-        <link>https://softwaredeafelopment.github.io/</link>
+        <lastBuildDate>Tue, 22 Sep 2026 09:13:17 +0000</lastBuildDate>
+        <link>https://softwaredeafelopment.ustp.at/</link>
         <title>Schleifen</title>
         
         <item>
     <description>&lt;p&gt;Schleifen sind Wiederholungen und können gut eingesetzt werden um zu viele Codes zu vermeiden.&lt;/p&gt;</description>
-    <guid>https://softwaredeafelopment.github.io/schleifen/was-sind-schleifen/</guid>
-    <link>https://softwaredeafelopment.github.io/schleifen/was-sind-schleifen/</link>
+    <guid>https://softwaredeafelopment.ustp.at/schleifen/was-sind-schleifen/</guid>
+    <link>https://softwaredeafelopment.ustp.at/schleifen/was-sind-schleifen/</link>
     <title>Was sind Schleifen?</title>
     <media:group>
     <media:content
@@ -23,12 +23,12 @@
     isDefault="true"
     medium="video"
     type="video/mp4"
-    url="https://softwaredeafelopment.github.io/schleifen/was-sind-schleifen/video01.mp4"
+    url="https://softwaredeafelopment.ustp.at/schleifen/was-sind-schleifen/video01.mp4"
     width="1920"/>
 
 </media:group>
 
-<media:thumbnail height="720" url="https://softwaredeafelopment.github.io/schleifen/was-sind-schleifen/poster_1280x720.jpg" width="1280"/>
+<media:thumbnail height="720" url="https://softwaredeafelopment.ustp.at/schleifen/was-sind-schleifen/poster_1280x720.jpg" width="1280"/>
 </item>
 
     </channel>

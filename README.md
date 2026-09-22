@@ -2,18 +2,23 @@
 
 ## Online
 
-Die Seite läuft unter **https://softwaredeafelopment.github.io** und wird über
-GitHub Pages aus dem Ordner `docs/` dieses Repos ausgeliefert (Branch `main`).
+Die Seite läuft unter **https://softwaredeafelopment.ustp.at**
+(https://softwaredeafelopment.github.io leitet dorthin weiter). Gehostet wird über
+GitHub Pages aus dem Ordner `docs/` dieses Repos (Branch `main`).
 
 Nach Änderungen an Texten, Videos oder Untertiteln:
 
 ```
-hyper8 -b .
-rm -rf docs && mkdir docs && cp -R .hyper8_build/. docs/ && touch docs/.nojekyll
+./deploy.sh
 git add -A && git commit -m "Update site" && git push
 ```
 
-Die `base_url` der Site steht in `site.eno`.
+`deploy.sh` löscht `docs/`, baut die Site mit hyper8, kopiert `.hyper8_build/` nach
+`docs/` und legt `docs/.nojekyll` sowie `docs/CNAME` an. `docs/` muss vor dem Bauen
+weg sein, sonst liest hyper8 den Ordner als weiteres Kapitel ein.
+
+**Wichtig:** `docs/CNAME` darf nicht gelöscht werden, sonst verliert die Seite die
+Custom Domain. Die `base_url` der Site steht in `site.eno`.
 
 Kurze Anleitung, wie die Site aufgebaut ist und wie man sie am Server laufen lässt.
 

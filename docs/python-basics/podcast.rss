@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
     <channel>
-        <atom:link href="https://softwaredeafelopment.github.io/python-basics/podcast.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://softwaredeafelopment.ustp.at/python-basics/podcast.rss" rel="self" type="application/rss+xml"/>
         <description>Hyper 8 Video System 0.23</description>
         <generator>Hyper 8 Video System 0.23.0 ()</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 21 Sep 2026 13:05:36 +0000</lastBuildDate>
-        <link>https://softwaredeafelopment.github.io/</link>
+        <lastBuildDate>Tue, 22 Sep 2026 09:13:17 +0000</lastBuildDate>
+        <link>https://softwaredeafelopment.ustp.at/</link>
         <title>Python Basics</title>
-        <podcast:guid>488ec2e9-ff08-5db6-98d3-a0bef2154814</podcast:guid>
+        <podcast:guid>3211e541-dc43-5b2f-af1e-d9a8b7801aea</podcast:guid>
         <item>
     <description>&lt;p&gt;Durch das Alltagsbeispiel "Katzentür" wird erklärt wie Python mit Bausteinen aufgebaut ist.&lt;/p&gt;</description>
-    <guid>https://softwaredeafelopment.github.io/python-basics/beispiel-katzentur/</guid>
-    <link>https://softwaredeafelopment.github.io/python-basics/beispiel-katzentur/</link>
+    <guid>https://softwaredeafelopment.ustp.at/python-basics/beispiel-katzentur/</guid>
+    <link>https://softwaredeafelopment.ustp.at/python-basics/beispiel-katzentur/</link>
     <title>Beispiel Katzentür</title>
-    <enclosure length="15327562" type="video/mp4" url="https://softwaredeafelopment.github.io/python-basics/beispiel-katzentur/video01.mp4"/>
+    <enclosure length="15327562" type="video/mp4" url="https://softwaredeafelopment.ustp.at/python-basics/beispiel-katzentur/video01.mp4"/>
 <itunes:duration>65.63223</itunes:duration>
-<itunes:image href="https://softwaredeafelopment.github.io/python-basics/beispiel-katzentur/poster_1280x720.jpg"/>
+<itunes:image href="https://softwaredeafelopment.ustp.at/python-basics/beispiel-katzentur/poster_1280x720.jpg"/>
 </item>
 
 <item>
     <description>&lt;p&gt;Python ist leicht zu lernen, gratis und Open Source. Was Open Source ist und mehr gibt es im Video.&lt;/p&gt;</description>
-    <guid>https://softwaredeafelopment.github.io/python-basics/vorteile-von-python/</guid>
-    <link>https://softwaredeafelopment.github.io/python-basics/vorteile-von-python/</link>
+    <guid>https://softwaredeafelopment.ustp.at/python-basics/vorteile-von-python/</guid>
+    <link>https://softwaredeafelopment.ustp.at/python-basics/vorteile-von-python/</link>
     <title>Vorteile von Python</title>
-    <enclosure length="4711865" type="video/mp4" url="https://softwaredeafelopment.github.io/python-basics/vorteile-von-python/video01.mp4"/>
+    <enclosure length="4711865" type="video/mp4" url="https://softwaredeafelopment.ustp.at/python-basics/vorteile-von-python/video01.mp4"/>
 <itunes:duration>47.733334</itunes:duration>
-<itunes:image href="https://softwaredeafelopment.github.io/python-basics/vorteile-von-python/poster_1280x720.jpg"/>
+<itunes:image href="https://softwaredeafelopment.ustp.at/python-basics/vorteile-von-python/poster_1280x720.jpg"/>
 </item>
 
 <item>
     <description>&lt;p&gt;Wer Python entwickelt hat und warum der Name "Python"? Das erfährst du im Video.&lt;/p&gt;</description>
-    <guid>https://softwaredeafelopment.github.io/python-basics/was-ist-python/</guid>
-    <link>https://softwaredeafelopment.github.io/python-basics/was-ist-python/</link>
+    <guid>https://softwaredeafelopment.ustp.at/python-basics/was-ist-python/</guid>
+    <link>https://softwaredeafelopment.ustp.at/python-basics/was-ist-python/</link>
     <title>Was ist Python?</title>
-    <enclosure length="5465614" type="video/mp4" url="https://softwaredeafelopment.github.io/python-basics/was-ist-python/video01.mp4"/>
+    <enclosure length="5465614" type="video/mp4" url="https://softwaredeafelopment.ustp.at/python-basics/was-ist-python/video01.mp4"/>
 <itunes:duration>58</itunes:duration>
-<itunes:image href="https://softwaredeafelopment.github.io/python-basics/was-ist-python/poster_1280x720.jpg"/>
+<itunes:image href="https://softwaredeafelopment.ustp.at/python-basics/was-ist-python/poster_1280x720.jpg"/>
 </item>
 
 <item>
     <description>&lt;p&gt;Python hat auch Schwächen, die hier genauer erklärt werden.&lt;/p&gt;</description>
-    <guid>https://softwaredeafelopment.github.io/python-basics/nachteile-von-python/</guid>
-    <link>https://softwaredeafelopment.github.io/python-basics/nachteile-von-python/</link>
+    <guid>https://softwaredeafelopment.ustp.at/python-basics/nachteile-von-python/</guid>
+    <link>https://softwaredeafelopment.ustp.at/python-basics/nachteile-von-python/</link>
     <title>Nachteile von Python</title>
-    <enclosure length="4578333" type="video/mp4" url="https://softwaredeafelopment.github.io/python-basics/nachteile-von-python/video01.mp4"/>
+    <enclosure length="4578333" type="video/mp4" url="https://softwaredeafelopment.ustp.at/python-basics/nachteile-von-python/video01.mp4"/>
 <itunes:duration>44.833332</itunes:duration>
-<itunes:image href="https://softwaredeafelopment.github.io/python-basics/nachteile-von-python/poster_1280x720.jpg"/>
+<itunes:image href="https://softwaredeafelopment.ustp.at/python-basics/nachteile-von-python/poster_1280x720.jpg"/>
 </item>
 
     </channel>

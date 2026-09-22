@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
     <channel>
-        <atom:link href="https://softwaredeafelopment.github.io/plain.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://softwaredeafelopment.ustp.at/plain.rss" rel="self" type="application/rss+xml"/>
         <description>&lt;p&gt;Willkommen bei Software Deafelopment!&lt;/p&gt;&lt;p&gt;Programmieren ist heute ein wichtiger Teil unserer digitalen Welt. Viele Menschen möchten Programmieren lernen, aber passende Lernangebote sind nicht für alle zugänglich.&lt;/p&gt;&lt;p&gt;„Software Deafelopment“ möchte das ändern. Das Projekt entwickelte Lerninhalte zum Thema Programmieren in Österreichischer Gebärdensprache (ÖGS). Damit wird versucht, dass gehörlose und schwerhörige Personen einen leichteren Zugang zu grundlegenden Programmierkenntnissen bekommen.&lt;/p&gt;&lt;p&gt;Programmieren soll verständlich und zugänglich vermittelt werden. Die Lerninhalte sollen zeigen, dass Programmieren nicht nur etwas für Expert*innen ist. Sie sollen Interesse wecken, zum Ausprobieren motivieren und dabei helfen, erste eigene Erfahrungen mit Programmieren zu sammeln.&lt;/p&gt;&lt;p&gt;Ein wichtiger Teil des Projekts ist die Zusammenarbeit mit netidee. Durch die Förderung und Unterstützung von netidee konnten wir Software Deafelopment umsetzen und die Entwicklung von digitalen Lernangeboten in ÖGS voranbringen.&lt;/p&gt;&lt;p&gt;Software Deafelopment soll ein Angebot von und für Menschen sein, die sich für Programmieren interessieren. Wir möchten zeigen, dass Programmieren für alle zugänglich gemacht werden kann.&lt;/p&gt;&lt;p&gt;⠀&lt;/p&gt;&lt;p&gt;Ein Einführungskurs mit kurzen Videos (30 Sek. - 2 Min.) zu den Grundlagen des Programmierens in Python.&lt;/p&gt;&lt;p&gt;Der Kurs ist in sieben Kapitel gegliedert, die aufeinander aufbauen:&lt;/p&gt;&lt;p&gt;1. Grundlagen / Einführung – Was ist Programmieren, was ist ein Programmiercode?&lt;/p&gt;&lt;p&gt;2. Python Basics – Was ist Python, Vor- und Nachteile, ein Alltagsbeispiel&lt;/p&gt;&lt;p&gt;3. Erste Schritte – Die Bausteine eines Programms und die ersten Zeilen Python&lt;/p&gt;&lt;p&gt;4. Kommentare – Code verständlich beschreiben&lt;/p&gt;&lt;p&gt;5. Datentypen &amp;amp; Variablen – Zahlen, Strings, Boolean und Variablen&lt;/p&gt;&lt;p&gt;6. Input – Eingaben von Nutzerinnen und Nutzern verarbeiten&lt;/p&gt;&lt;p&gt;7. Schleifen – Wiederholungen im Code&lt;/p&gt;&lt;p&gt;Am besten der Reihe nach anschauen. Alle Videos haben Untertitel.&lt;/p&gt;&lt;p&gt;⠀&lt;/p&gt;&lt;p&gt;Über das Projekt&lt;/p&gt;&lt;p&gt;Software Deafelopment wurde 2025–2026 von Gebärdenverse gemeinsam mit der Fachhochschule St. Pölten (USTP) umgesetzt und von netidee, der Förderinitiative der Internet Stiftung, gefördert. Konzept, Drehbücher und Videos in ÖGS: das Team von Gebärdenverse. Projektleitung: Lukas Daniel Klausner (USTP).&lt;/p&gt;&lt;p&gt;Projektseite bei netidee: &lt;a href="https://www.netidee.at/introduction-software-deafelopment" target="_blank"&gt;https://www.netidee.at/introduction-software-deafelopment&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Lizenz: Alle Videos, Untertitel und Texte dieser Seite stehen unter der Lizenz CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.de). Sie dürfen geteilt und weiterverwendet werden, wenn Software Deafelopment als Quelle genannt wird.&lt;/p&gt;&lt;p&gt;Impressum &amp;amp; Datenschutz&lt;/p&gt;&lt;p&gt;Verantwortlich für diese Website: Hochschule für Angewandte Wissenschaften St. Pölten GmbH – Impressum: &lt;a href="https://www.ustp.at/de/impressum" target="_blank"&gt;https://www.ustp.at/de/impressum&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Datenschutz: Diese Website wird über GitHub Pages bereitgestellt (GitHub Inc., USA). Beim Aufruf verarbeitet GitHub technisch notwendige Daten wie IP-Adresse, Zeitpunkt des Zugriffs, aufgerufene Seite und Browserinformationen in Server-Logfiles. Wir selbst haben keinen Zugriff auf diese Daten und setzen kein Tracking, keine Cookies und keine Analyse-Tools ein. Rechtsgrundlage ist unser berechtigtes Interesse an einem sicheren und stabilen Betrieb der Website (Art. 6 Abs. 1 lit. f DSGVO). GitHub verwendet für die Datenübermittlung in die USA EU-Standardvertragsklauseln. Details: &lt;a href="https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement" target="_blank"&gt;https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement&lt;/a&gt;&lt;/p&gt;</description>
         <generator>Hyper 8 Video System 0.23.0 ()</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 21 Sep 2026 13:05:36 +0000</lastBuildDate>
-        <link>https://softwaredeafelopment.github.io/</link>
+        <lastBuildDate>Tue, 22 Sep 2026 09:13:17 +0000</lastBuildDate>
+        <link>https://softwaredeafelopment.ustp.at/</link>
         <title>Software Deafelopment</title>
         
         <item>
     <description>&lt;p&gt;Überblick: Zahlen zum Rechnen, Strings für Texte, Boolean für wahr oder falsch und Variablen zum Speichern. Die nächsten Videos erklären jeden Typ einzeln.&lt;/p&gt;</description>
-    <guid>https://softwaredeafelopment.github.io/datentypen-variablen/datentypen/</guid>
-    <link>https://softwaredeafelopment.github.io/datentypen-variablen/datentypen/</link>
+    <guid>https://softwaredeafelopment.ustp.at/datentypen-variablen/datentypen/</guid>
+    <link>https://softwaredeafelopment.ustp.at/datentypen-variablen/datentypen/</link>
     <title>Datentypen</title>
     
 </item>
 
 <item>
     <description>&lt;p&gt;Python kennt drei Zahlentypen. Diese werden genauer erklärt.&lt;/p&gt;</description>
-    <guid>https://softwaredeafelopment.github.io/datentypen-variablen/zahlen/</guid>
-    <link>https://softwaredeafelopment.github.io/datentypen-variablen/zahlen/</link>
+    <guid>https://softwaredeafelopment.ustp.at/datentypen-variablen/zahlen/</guid>
+    <link>https://softwaredeafelopment.ustp.at/datentypen-variablen/zahlen/</link>
     <title>Zahlen</title>
     
 </item>
 
 <item>
     <description>&lt;p&gt;Boolean kennt nur zwei Werte: wahr (True) oder falsch (False). Zum Beispiel wird es in einer If-Bedingung oder Schleife angewendet.&lt;/p&gt;</description>
-    <guid>https://softwaredeafelopment.github.io/datentypen-variablen/boolean/</guid>
-    <link>https://softwaredeafelopment.github.io/datentypen-variablen/boolean/</link>
+    <guid>https://softwaredeafelopment.ustp.at/datentypen-variablen/boolean/</guid>
+    <link>https://softwaredeafelopment.ustp.at/datentypen-variablen/boolean/</link>
     <title>Boolean</title>
     
 </item>
@@ -36,16 +36,16 @@
 <item>
     <description>&lt;p&gt;Eine Variable ist wie eine Box mit Namen, wo Zahlen und Texte gespeichert werden.
 Beispiel: name = "Anna"&lt;/p&gt;</description>
-    <guid>https://softwaredeafelopment.github.io/datentypen-variablen/variablen/</guid>
-    <link>https://softwaredeafelopment.github.io/datentypen-variablen/variablen/</link>
+    <guid>https://softwaredeafelopment.ustp.at/datentypen-variablen/variablen/</guid>
+    <link>https://softwaredeafelopment.ustp.at/datentypen-variablen/variablen/</link>
     <title>Variablen</title>
     
 </item>
 
 <item>
     <description>&lt;p&gt;Was genau String bedeutet und was wichtig ist zu beachten ist im Video. Ein Beispiel ist: "Hallo Welt"&lt;/p&gt;</description>
-    <guid>https://softwaredeafelopment.github.io/datentypen-variablen/string/</guid>
-    <link>https://softwaredeafelopment.github.io/datentypen-variablen/string/</link>
+    <guid>https://softwaredeafelopment.ustp.at/datentypen-variablen/string/</guid>
+    <link>https://softwaredeafelopment.ustp.at/datentypen-variablen/string/</link>
     <title>String</title>
     
 </item>
@@ -53,32 +53,32 @@ Beispiel: name = "Anna"&lt;/p&gt;</description>
 <item>
     <description>&lt;p&gt;Programmieren bedeutet, dem Computer eine genaue Schritt-für-Schritt-Anleitung zu geben. Der Computer kann kein „ungefähr“ – wir denken für ihn mit. Das Video zeigt, warum es viele Programmiersprachen gibt und was sie alle gemeinsam haben.
 Beispiel: print("Hallo Welt")&lt;/p&gt;</description>
-    <guid>https://softwaredeafelopment.github.io/grundlagen-einfuhrung/was-ist-programmieren/</guid>
-    <link>https://softwaredeafelopment.github.io/grundlagen-einfuhrung/was-ist-programmieren/</link>
+    <guid>https://softwaredeafelopment.ustp.at/grundlagen-einfuhrung/was-ist-programmieren/</guid>
+    <link>https://softwaredeafelopment.ustp.at/grundlagen-einfuhrung/was-ist-programmieren/</link>
     <title>Was ist Programmieren?</title>
     
 </item>
 
 <item>
     <description>&lt;p&gt;Was ist ein Programmiercode und welche Programmiersprache verwenden wir?&lt;/p&gt;</description>
-    <guid>https://softwaredeafelopment.github.io/grundlagen-einfuhrung/was-ist-ein-programmiercode/</guid>
-    <link>https://softwaredeafelopment.github.io/grundlagen-einfuhrung/was-ist-ein-programmiercode/</link>
+    <guid>https://softwaredeafelopment.ustp.at/grundlagen-einfuhrung/was-ist-ein-programmiercode/</guid>
+    <link>https://softwaredeafelopment.ustp.at/grundlagen-einfuhrung/was-ist-ein-programmiercode/</link>
     <title>Was ist ein Programmiercode?</title>
     
 </item>
 
 <item>
     <description>&lt;p&gt;Kommentare können wichtig sein und Missverständnisse vermeiden. Warum, wird im Video genauer erklärt.&lt;/p&gt;</description>
-    <guid>https://softwaredeafelopment.github.io/kommentare/kommentare-schreiben/</guid>
-    <link>https://softwaredeafelopment.github.io/kommentare/kommentare-schreiben/</link>
+    <guid>https://softwaredeafelopment.ustp.at/kommentare/kommentare-schreiben/</guid>
+    <link>https://softwaredeafelopment.ustp.at/kommentare/kommentare-schreiben/</link>
     <title>Kommentare schreiben</title>
     
 </item>
 
 <item>
     <description>&lt;p&gt;Der Befehl input() wartet, bis etwas eingegeben wird – ein Text oder eine Zahl. Beispiel: name = input("Wie heißt du? ")&lt;/p&gt;</description>
-    <guid>https://softwaredeafelopment.github.io/input/input/</guid>
-    <link>https://softwaredeafelopment.github.io/input/input/</link>
+    <guid>https://softwaredeafelopment.ustp.at/input/input/</guid>
+    <link>https://softwaredeafelopment.ustp.at/input/input/</link>
     <title>Input</title>
     
 </item>
@@ -86,8 +86,8 @@ Beispiel: print("Hallo Welt")&lt;/p&gt;</description>
 <item>
     <description>&lt;p&gt;Unser erstes Python-Programm: Im Editor probieren wir gemeinsam einen Code aus.
 Website: &lt;a href="https://webtigerpython.ethz.ch/" target="_blank"&gt;https://webtigerpython.ethz.ch/&lt;/a&gt;&lt;/p&gt;</description>
-    <guid>https://softwaredeafelopment.github.io/erste-schritte/erste-schritte-in-python/</guid>
-    <link>https://softwaredeafelopment.github.io/erste-schritte/erste-schritte-in-python/</link>
+    <guid>https://softwaredeafelopment.ustp.at/erste-schritte/erste-schritte-in-python/</guid>
+    <link>https://softwaredeafelopment.ustp.at/erste-schritte/erste-schritte-in-python/</link>
     <title>Erste Schritte in Python</title>
     
 </item>
@@ -95,48 +95,48 @@ Website: &lt;a href="https://webtigerpython.ethz.ch/" target="_blank"&gt;https:/
 <item>
     <description>&lt;p&gt;Bevor wir Python lernen, üben wir logisches Denken mit Bausteinen. Auf der Website werden Bausteine aneinandergereiht und gestapelt. Einfach ausprobieren!
 Website: &lt;a href="https://blockflow.openpatch.org/editor.html" target="_blank"&gt;https://blockflow.openpatch.org/editor.html&lt;/a&gt;&lt;/p&gt;</description>
-    <guid>https://softwaredeafelopment.github.io/erste-schritte/erste-bausteine/</guid>
-    <link>https://softwaredeafelopment.github.io/erste-schritte/erste-bausteine/</link>
+    <guid>https://softwaredeafelopment.ustp.at/erste-schritte/erste-bausteine/</guid>
+    <link>https://softwaredeafelopment.ustp.at/erste-schritte/erste-bausteine/</link>
     <title>Erste Bausteine</title>
     
 </item>
 
 <item>
     <description>&lt;p&gt;Durch das Alltagsbeispiel "Katzentür" wird erklärt wie Python mit Bausteinen aufgebaut ist.&lt;/p&gt;</description>
-    <guid>https://softwaredeafelopment.github.io/python-basics/beispiel-katzentur/</guid>
-    <link>https://softwaredeafelopment.github.io/python-basics/beispiel-katzentur/</link>
+    <guid>https://softwaredeafelopment.ustp.at/python-basics/beispiel-katzentur/</guid>
+    <link>https://softwaredeafelopment.ustp.at/python-basics/beispiel-katzentur/</link>
     <title>Beispiel Katzentür</title>
     
 </item>
 
 <item>
     <description>&lt;p&gt;Python ist leicht zu lernen, gratis und Open Source. Was Open Source ist und mehr gibt es im Video.&lt;/p&gt;</description>
-    <guid>https://softwaredeafelopment.github.io/python-basics/vorteile-von-python/</guid>
-    <link>https://softwaredeafelopment.github.io/python-basics/vorteile-von-python/</link>
+    <guid>https://softwaredeafelopment.ustp.at/python-basics/vorteile-von-python/</guid>
+    <link>https://softwaredeafelopment.ustp.at/python-basics/vorteile-von-python/</link>
     <title>Vorteile von Python</title>
     
 </item>
 
 <item>
     <description>&lt;p&gt;Wer Python entwickelt hat und warum der Name "Python"? Das erfährst du im Video.&lt;/p&gt;</description>
-    <guid>https://softwaredeafelopment.github.io/python-basics/was-ist-python/</guid>
-    <link>https://softwaredeafelopment.github.io/python-basics/was-ist-python/</link>
+    <guid>https://softwaredeafelopment.ustp.at/python-basics/was-ist-python/</guid>
+    <link>https://softwaredeafelopment.ustp.at/python-basics/was-ist-python/</link>
     <title>Was ist Python?</title>
     
 </item>
 
 <item>
     <description>&lt;p&gt;Python hat auch Schwächen, die hier genauer erklärt werden.&lt;/p&gt;</description>
-    <guid>https://softwaredeafelopment.github.io/python-basics/nachteile-von-python/</guid>
-    <link>https://softwaredeafelopment.github.io/python-basics/nachteile-von-python/</link>
+    <guid>https://softwaredeafelopment.ustp.at/python-basics/nachteile-von-python/</guid>
+    <link>https://softwaredeafelopment.ustp.at/python-basics/nachteile-von-python/</link>
     <title>Nachteile von Python</title>
     
 </item>
 
 <item>
     <description>&lt;p&gt;Schleifen sind Wiederholungen und können gut eingesetzt werden um zu viele Codes zu vermeiden.&lt;/p&gt;</description>
-    <guid>https://softwaredeafelopment.github.io/schleifen/was-sind-schleifen/</guid>
-    <link>https://softwaredeafelopment.github.io/schleifen/was-sind-schleifen/</link>
+    <guid>https://softwaredeafelopment.ustp.at/schleifen/was-sind-schleifen/</guid>
+    <link>https://softwaredeafelopment.ustp.at/schleifen/was-sind-schleifen/</link>
     <title>Was sind Schleifen?</title>
     
 </item>

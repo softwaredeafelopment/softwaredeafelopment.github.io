@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
     <channel>
-        <atom:link href="https://softwaredeafelopment.github.io/datentypen-variablen/plain.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://softwaredeafelopment.ustp.at/datentypen-variablen/plain.rss" rel="self" type="application/rss+xml"/>
         <description>Hyper 8 Video System 0.23</description>
         <generator>Hyper 8 Video System 0.23.0 ()</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 21 Sep 2026 13:05:36 +0000</lastBuildDate>
-        <link>https://softwaredeafelopment.github.io/</link>
+        <lastBuildDate>Tue, 22 Sep 2026 09:13:17 +0000</lastBuildDate>
+        <link>https://softwaredeafelopment.ustp.at/</link>
         <title>Datentypen &amp; Variablen</title>
         
         <item>
     <description>&lt;p&gt;Überblick: Zahlen zum Rechnen, Strings für Texte, Boolean für wahr oder falsch und Variablen zum Speichern. Die nächsten Videos erklären jeden Typ einzeln.&lt;/p&gt;</description>
-    <guid>https://softwaredeafelopment.github.io/datentypen-variablen/datentypen/</guid>
-    <link>https://softwaredeafelopment.github.io/datentypen-variablen/datentypen/</link>
+    <guid>https://softwaredeafelopment.ustp.at/datentypen-variablen/datentypen/</guid>
+    <link>https://softwaredeafelopment.ustp.at/datentypen-variablen/datentypen/</link>
     <title>Datentypen</title>
     
 </item>
 
 <item>
     <description>&lt;p&gt;Python kennt drei Zahlentypen. Diese werden genauer erklärt.&lt;/p&gt;</description>
-    <guid>https://softwaredeafelopment.github.io/datentypen-variablen/zahlen/</guid>
-    <link>https://softwaredeafelopment.github.io/datentypen-variablen/zahlen/</link>
+    <guid>https://softwaredeafelopment.ustp.at/datentypen-variablen/zahlen/</guid>
+    <link>https://softwaredeafelopment.ustp.at/datentypen-variablen/zahlen/</link>
     <title>Zahlen</title>
     
 </item>
 
 <item>
     <description>&lt;p&gt;Boolean kennt nur zwei Werte: wahr (True) oder falsch (False). Zum Beispiel wird es in einer If-Bedingung oder Schleife angewendet.&lt;/p&gt;</description>
-    <guid>https://softwaredeafelopment.github.io/datentypen-variablen/boolean/</guid>
-    <link>https://softwaredeafelopment.github.io/datentypen-variablen/boolean/</link>
+    <guid>https://softwaredeafelopment.ustp.at/datentypen-variablen/boolean/</guid>
+    <link>https://softwaredeafelopment.ustp.at/datentypen-variablen/boolean/</link>
     <title>Boolean</title>
     
 </item>
@@ -36,16 +36,16 @@
 <item>
     <description>&lt;p&gt;Eine Variable ist wie eine Box mit Namen, wo Zahlen und Texte gespeichert werden.
 Beispiel: name = "Anna"&lt;/p&gt;</description>
-    <guid>https://softwaredeafelopment.github.io/datentypen-variablen/variablen/</guid>
-    <link>https://softwaredeafelopment.github.io/datentypen-variablen/variablen/</link>
+    <guid>https://softwaredeafelopment.ustp.at/datentypen-variablen/variablen/</guid>
+    <link>https://softwaredeafelopment.ustp.at/datentypen-variablen/variablen/</link>
     <title>Variablen</title>
     
 </item>
 
 <item>
     <description>&lt;p&gt;Was genau String bedeutet und was wichtig ist zu beachten ist im Video. Ein Beispiel ist: "Hallo Welt"&lt;/p&gt;</description>
-    <guid>https://softwaredeafelopment.github.io/datentypen-variablen/string/</guid>
-    <link>https://softwaredeafelopment.github.io/datentypen-variablen/string/</link>
+    <guid>https://softwaredeafelopment.ustp.at/datentypen-variablen/string/</guid>
+    <link>https://softwaredeafelopment.ustp.at/datentypen-variablen/string/</link>
     <title>String</title>
     
 </item>
