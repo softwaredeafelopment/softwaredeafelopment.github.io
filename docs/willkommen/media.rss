@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <atom:link href="https://softwaredeafelopment.ustp.at/willkommen/media.rss" rel="self" type="application/rss+xml"/>
+        <description>Hyper 8 Video System 0.23</description>
+        <generator>Hyper 8 Video System 0.23.0 ()</generator>
+        <language>en</language>
+        <lastBuildDate>Mon, 19 Oct 2026 16:44:16 +0000</lastBuildDate>
+        <link>https://softwaredeafelopment.ustp.at/</link>
+        <title>Willkommen</title>
+        
+        <item>
+    <description>&lt;p&gt;Warum gibt es Software Deafelopment? Eine kurze Einführung in ÖGS: Barrieren beim Programmierenlernen und unser Projektziel.&lt;/p&gt;</description>
+    <guid>https://softwaredeafelopment.ustp.at/willkommen/ueber-dieses-projekt/</guid>
+    <link>https://softwaredeafelopment.ustp.at/willkommen/ueber-dieses-projekt/</link>
+    <title>Über dieses Projekt</title>
+    <media:group>
+    <media:content
+    duration="62.634666"
+    fileSize="74660841"
+    framerate="60"
+    height="1080"
+    isDefault="true"
+    medium="video"
+    type="video/mp4"
+    url="https://softwaredeafelopment.ustp.at/willkommen/ueber-dieses-projekt/video01.mp4"
+    width="1920"/>
+
+</media:group>
+
+<media:thumbnail height="720" url="https://softwaredeafelopment.ustp.at/willkommen/ueber-dieses-projekt/poster_1280x720.jpg" width="1280"/>
+</item>
+
+    </channel>
+</rss>

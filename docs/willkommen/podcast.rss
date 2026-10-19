@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+    <channel>
+        <atom:link href="https://softwaredeafelopment.ustp.at/willkommen/podcast.rss" rel="self" type="application/rss+xml"/>
+        <description>Hyper 8 Video System 0.23</description>
+        <generator>Hyper 8 Video System 0.23.0 ()</generator>
+        <language>en</language>
+        <lastBuildDate>Mon, 19 Oct 2026 16:44:16 +0000</lastBuildDate>
+        <link>https://softwaredeafelopment.ustp.at/</link>
+        <title>Willkommen</title>
+        <podcast:guid>3211e541-dc43-5b2f-af1e-d9a8b7801aea</podcast:guid>
+        <item>
+    <description>&lt;p&gt;Warum gibt es Software Deafelopment? Eine kurze Einführung in ÖGS: Barrieren beim Programmierenlernen und unser Projektziel.&lt;/p&gt;</description>
+    <guid>https://softwaredeafelopment.ustp.at/willkommen/ueber-dieses-projekt/</guid>
+    <link>https://softwaredeafelopment.ustp.at/willkommen/ueber-dieses-projekt/</link>
+    <title>Über dieses Projekt</title>
+    <enclosure length="74660841" type="video/mp4" url="https://softwaredeafelopment.ustp.at/willkommen/ueber-dieses-projekt/video01.mp4"/>
+<itunes:duration>62.634666</itunes:duration>
+<itunes:image href="https://softwaredeafelopment.ustp.at/willkommen/ueber-dieses-projekt/poster_1280x720.jpg"/>
+</item>
+
+    </channel>
+</rss>

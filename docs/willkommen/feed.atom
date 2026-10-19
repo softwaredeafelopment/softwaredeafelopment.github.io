@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <author>
+        <name>Willkommen</name>
+    </author>
+    <generator uri="https://simonrepp.com/hyper8" version="0.23.0">
+        Hyper 8 Video System 0.23.0 ()
+    </generator>
+    <id>https://softwaredeafelopment.ustp.at/</id>
+    <link href="https://softwaredeafelopment.ustp.at/willkommen/feed.atom" rel="self"/>
+    
+    <title>Willkommen</title>
+    <updated>2026-10-19T16:44:16.246030+00:00</updated>
+    <entry>
+    <id>https://softwaredeafelopment.ustp.at/willkommen/ueber-dieses-projekt/</id>
+    <link href="https://softwaredeafelopment.ustp.at/willkommen/ueber-dieses-projekt/" rel="alternate"/>
+    <title>Über dieses Projekt</title>
+    <summary type="html">&lt;p&gt;Warum gibt es Software Deafelopment? Eine kurze Einführung in ÖGS: Barrieren beim Programmierenlernen und unser Projektziel.&lt;/p&gt;</summary>
+    <updated>2026-10-19T16:44:16.246030+00:00</updated>
+</entry>
+
+</feed>
