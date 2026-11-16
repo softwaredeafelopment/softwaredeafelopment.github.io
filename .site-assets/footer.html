@@ -1,0 +1,43 @@
+<section class="sd-logos" lang="de" aria-label="Förderung und Projektpartner">
+    <style>
+        .sd-logos { display: flex; justify-content: center; padding: 0 1rem 1.5rem 1rem; }
+        .sd-logos > div {
+            align-items: center;
+            background: #fff;
+            border-radius: .5rem;
+            color: #333;
+            display: flex;
+            flex-wrap: wrap;
+            font-size: .8rem;
+            gap: .7rem 1.4rem;
+            justify-content: center;
+            padding: .7rem 1.2rem;
+        }
+        .sd-logos p { align-items: center; display: flex; gap: .7rem; margin: 0; }
+        .sd-logos a { border-radius: .2rem; display: block; }
+        .sd-logos a:hover { opacity: .75; }
+        .sd-logos a:focus-visible { outline: .15rem solid #333; outline-offset: .2rem; }
+        .sd-logos img { height: 2.25rem; width: auto; }
+        .sd-logos img.sd-round { height: 3rem; }
+        .sd-logos .sd-partner { border-left: 1px solid #ccc; padding-left: 1.4rem; }
+        @media (width < 34rem) {
+            .sd-logos .sd-partner { border-left: none; padding-left: 0; }
+        }
+    </style>
+    <div>
+        <p>
+            <span>Gefördert von</span>
+            <a href="https://www.netidee.at/" target="_blank" rel="noopener">
+                <img src="@ROOT@assets/logos/netidee.png" alt="netidee – gefördert von netidee" width="145" height="36">
+            </a>
+        </p>
+        <p class="sd-partner">
+            <a href="https://www.ustp.at/" target="_blank" rel="noopener">
+                <img src="@ROOT@assets/logos/ustp.png" alt="USTP – University of Applied Sciences St. Pölten" width="132" height="36">
+            </a>
+            <a href="https://gebaerdenverse.at/" target="_blank" rel="noopener">
+                <img class="sd-round" src="@ROOT@assets/logos/gebaerdenverse.png" alt="Gebärdenverse" width="48" height="48">
+            </a>
+        </p>
+    </div>
+</section>
